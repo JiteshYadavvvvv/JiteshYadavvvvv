@@ -12,28 +12,31 @@
 
 <h1 align="center">⚡ Jittu Rao ⚡</h1>
 <h3 align="center">A passionate developer and tech enthusiast</h3>
+  <div align="center">
+    <img src="gippy.gif" alt="Coding energy" style="width:100%; max-width:450px; border-radius:1rem; box-shadow:0 20px 35px rgba(0,0,0,0.25); border:3px solid rgba(255,255,255,0.25);" />
+  </div>
+
 
 ---
 
-## 🌩️ About Me
+## 🌩️ My Dev Arsenal
+  
+```javascript
+const jittu = {
+  pronouns: "he" | "him",
+  code: [JavaScript, TypeScript, Python],
+  frameworks: [React, Express],
+  databases: [MongoDB, PostgreSQL],
+  architecture: ["microservices", "serverless"],
+  currentFocus: "Leveling Up",
+  funFact: "Turns caffeine into code ☕"
+}
+```
 
-<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:center;">
-  <div style="flex:1; min-width:280px; background:linear-gradient(135deg, #0e75b6, #1c2a6b); padding:1.5rem; border-radius:1.1rem; box-shadow:0 25px 40px rgba(14,117,182,0.35); color:#f8fbff;">
-    <h3 style="margin-top:0;">Jittu in Motion</h3>
-    <p>I’m a first-year engineering student who treats every concept like a puzzle piece — understand the fit, then sculpt the solution. I bridge deep system thinking with playful experimentation to keep learning vivid.</p>
-    <ul style="padding-left:1.1rem; margin:0; gap:0.35rem; display:flex; flex-direction:column; font-weight:500;">
-      <li>Rapid prototypes that respect clean architecture.</li>
-      <li>Debugging as exploration, not just troubleshooting.</li>
-      <li>Designing joyful learning loops and sharing what I discover.</li>
-      <li>Balancing creativity with data-backed decisions.</li>
-    </ul>
-    <p style="margin-top:1rem;">I’m always hunting the “why” behind a tool, so I can build both faster and more confidently.</p>
-  </div>
-  <div style="flex:1; min-width:260px; text-align:center;">
-    <img src="gippy.gif" alt="Coding energy" style="width:100%; max-width:420px; border-radius:1rem; box-shadow:0 20px 35px rgba(0,0,0,0.25); border:3px solid rgba(255,255,255,0.25);" />
-    <p style="margin-top:0.5rem; color:#616c86; font-size:0.95rem;">Flow state, debug mode, repeat.</p>
-  </div>
-</div>
+---
+
+[![An image of @Jitesh-Yadav01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jiteshyadav01)](https://holopin.io/@jiteshyadav01)
+
 
 ---
 
@@ -42,13 +45,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
----
-[![An image of @Jitesh-Yadav01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jiteshyadav01)](https://holopin.io/@jiteshyadav01)
 
+## GitHub Trophies
 
-
-
----
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Jitesh-Yadav01&theme=tokyonight&row=1&column=7&margin-w=14" alt="GitHub trophies" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jitesh-Yadav01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></p>

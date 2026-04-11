@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jitesh-Yadav01&label=Profile%20views&color=0e75b6&style=flat" alt="Jitesh-Yadav01" />
+  <img src="https://komarev.com/ghpvc/?username=JiteshYadavvvvv&label=Profile%20views&color=0e75b6&style=flat" alt="JiteshYadavvvvv" />
 </p>
 
 <h1 align="center">⚡ Jittu Rao ⚡</h1>
@@ -48,26 +48,26 @@ const jittu = {
 
 ## GitHub Trophies
 
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Jitesh-Yadav01&theme=tokyonight&row=1&column=7&margin-w=14" alt="GitHub trophies" /></p>
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=JiteshYadavvvvv&theme=tokyonight&row=1&column=7&margin-w=14" alt="GitHub trophies" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jitesh-Yadav01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JiteshYadavvvvv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></p>
 
 
 ## ⚡ Power Levels
 
 <div align="center">
-  <img src="https://github.com/Jitesh-Yadav01/Jitesh-Yadav01/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/JiteshYadavvvvv/JiteshYadavvvvv/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   <br/>
   
-  <img src="https://github-readme-stats-seven-iota-51.vercel.app/api?username=Jitesh-Yadav01&show_icons=true&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-seven-iota-51.vercel.app/api?username=JiteshYadavvvvv&show_icons=true&theme=transparent&hide_border=true" alt="Top Languages" />
   <br/>
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=Jitesh-Yadav01&theme=blue-green&hide_border=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=JiteshYadavvvvv&theme=blue-green&hide_border=false)
 </div>
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jitesh-Yadav01&theme=tokyo-night" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JiteshYadavvvvv&theme=tokyo-night" alt="activity graph" />
 </p>
 
 ---

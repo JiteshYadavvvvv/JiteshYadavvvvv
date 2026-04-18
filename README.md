@@ -118,9 +118,9 @@ const jittu = {
   <!-- <img height="160"
        src="https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true"/> -->
 <img
-       src="https://commitpulse.vercel.app/api/streak?user=JiteshYadavvvvv&bg=0d1117&accent=a855f7&v=1"/>
+       src="https://commitpulse.vercel.app/api/streak?user=JiteshYadavvvvv&bg=0d1117&accent=#0339F8&v=1"/>
 </p>
-<br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/github-contribution-grid-snake-dark.svg">

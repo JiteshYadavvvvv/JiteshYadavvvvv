@@ -24,8 +24,6 @@
     <img src="gippy.gif" alt="Coding energy" style="width:100%; max-width:450px; border-radius:1rem; box-shadow:0 20px 35px rgba(0,0,0,0.25); border:3px solid rgba(255,255,255,0.25);" />
   </div>
 
-
-
 ---
 
 ## 🌩️ My Dev Arsenal
@@ -38,21 +36,13 @@ const jittu = {
   databases: [MongoDB, PostgreSQL],
   architecture: ["microservices", "serverless"],
   currentFocus: "Leveling Up",
-  funFact: "Turns caffeine into code ☕"
-}
-
-
-
+  funFact: "Turns caffeine into code ☕",
+};
 ```
 
 ---
 
 [![An image of @Jitesh-Yadav01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jiteshyadav01)](https://holopin.io/@jiteshyadav01)
-
-
-
-
-
 
 ---
 
@@ -106,8 +96,7 @@ const jittu = {
   </a>
 </p>
 
-<br/><br/>
-
+<br/>
 
 ## GitHub Trophies
 
@@ -115,22 +104,7 @@ const jittu = {
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JiteshYadavvvvv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></p>
 
-<br/><br/>
-
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img height="160"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true"/> -->
-<img
-       src="https://commitpulse.vercel.app/api/streak?user=JiteshYadavvvvv&bg=0d1117&accent=a855f7&v=1"/>
-</p>
-
----
-
+<br/>
 
 
 ## ⚡ Power Levels
@@ -140,6 +114,13 @@ const jittu = {
   <img src="https://github-readme-stats-seven-iota-51.vercel.app/api?username=JiteshYadavvvvv&show_icons=true&theme=transparent&hide_border=true" alt="Top Languages" />
   <br/>
 
+<p align="center">
+  <!-- <img height="160"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true"/> -->
+<img
+       src="https://commitpulse.vercel.app/api/streak?user=JiteshYadavvvvv&bg=0d1117&accent=a855f7&v=1"/>
+</p>
+<br/>
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/github-contribution-grid-snake-dark.svg">
@@ -151,7 +132,6 @@ const jittu = {
   <br/>
 
 </div>
-
 
 ---
 
@@ -165,9 +145,7 @@ const jittu = {
 
 <!-- ## 🐍 Contribution Snake -->
 
-
-
-<!-- <picture> 
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
@@ -176,7 +154,7 @@ const jittu = {
        src="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake.svg">
 </picture> -->
 
-## 🟡 Pacman Contribution Graph
+## 🟡 Pacman CG
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -188,4 +166,3 @@ const jittu = {
 </picture>
 
 ---
-

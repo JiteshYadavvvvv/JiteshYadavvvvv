@@ -139,6 +139,7 @@ const jittu = {
 
   <img src="https://github-readme-stats-seven-iota-51.vercel.app/api?username=JiteshYadavvvvv&show_icons=true&theme=transparent&hide_border=true" alt="Top Languages" />
   <br/>
+  
   <img src="https://github.com/JiteshYadavvvvv/JiteshYadavvvvv/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   <br/>
 
@@ -159,14 +160,14 @@ const jittu = {
 
 
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake.svg">
   <img alt="snake animation"
        src="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake.svg">
-</picture> -->
+</picture>
 
 ## 🟡 Pacman Contribution Graph
 

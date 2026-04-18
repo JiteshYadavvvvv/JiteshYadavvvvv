@@ -50,7 +50,6 @@ const jittu = {
 
 
 
----
 
 
 
@@ -140,7 +139,14 @@ const jittu = {
   <img src="https://github-readme-stats-seven-iota-51.vercel.app/api?username=JiteshYadavvvvv&show_icons=true&theme=transparent&hide_border=true" alt="Top Languages" />
   <br/>
   
-  <img src="https://github.com/JiteshYadavvvvv/JiteshYadavvvvv/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake/github-contribution-grid-snake.svg">
+      <img alt="Snake Animation"
+     src="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake/github-contribution-grid-snake.svg" />
+    </picture>
   <br/>
 
 </div>
@@ -160,24 +166,24 @@ const jittu = {
 
 
 
-<picture>
+<!-- <picture> 
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake.svg">
   <img alt="snake animation"
        src="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake.svg">
-</picture>
+</picture> -->
 
 ## 🟡 Pacman Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/pacman-contribution-graph-dark.svg">
+      srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/pacman/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/pacman-contribution-graph.svg">
+      srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/pacman/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph"
-       src="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/pacman-contribution-graph.svg">
+         src="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/pacman/pacman-contribution-graph.svg">
 </picture>
 
 ---

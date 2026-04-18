@@ -5,6 +5,7 @@
     <img src="banner.gif" alt="Coding energy" style="width:100%;  border-radius:1rem; box-shadow:0 20px 35px rgba(0,0,0,0.25); border:3px solid rgba(255,255,255,0.25);" />
   </div>
 
+<br/>
 
 <!-- Typing Intro -->
 <p align="center">
@@ -105,7 +106,7 @@ const jittu = {
   </a>
 </p>
 
----
+<br/><br/>
 
 
 ## GitHub Trophies
@@ -114,10 +115,10 @@ const jittu = {
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JiteshYadavvvvv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></p>
 
+<br/><br/>
 
 
 
----
 
 ## 📊 GitHub Stats
 
@@ -138,15 +139,15 @@ const jittu = {
 
   <img src="https://github-readme-stats-seven-iota-51.vercel.app/api?username=JiteshYadavvvvv&show_icons=true&theme=transparent&hide_border=true" alt="Top Languages" />
   <br/>
-  
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake/github-contribution-grid-snake.svg">
-      <img alt="Snake Animation"
-     src="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake/github-contribution-grid-snake.svg" />
-    </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation"
+         src="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/github-contribution-grid-snake.svg" />
+  </picture>
   <br/>
 
 </div>

@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -20,8 +23,8 @@ jobs:
         with:
           github_user_name: JiteshYadavvvvv
           outputs: |
-            dist/snake/github-contribution-grid-snake.svg
-            dist/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4

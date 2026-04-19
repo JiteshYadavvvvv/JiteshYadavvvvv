@@ -18,13 +18,12 @@
   <img src="https://komarev.com/ghpvc/?username=JiteshYadavvvvv&label=Profile%20views&color=0e75b6&style=flat" alt="JiteshYadavvvvv" />
 </p>
 
-<h1 align="center">⚡ Jittu Rao ⚡</h1>
-<h3 align="center">A passionate developer and tech enthusiast</h3>
-  <div align="center">
+<h1 align="center">⚡ Jittu Rao ⚡  </h1> <br/>
+<!-- <h3 align="center">A passionate developer and tech enthusiast</h3> -->
+  <!-- <div align="center">
     <img src="gippy.gif" alt="Coding energy" style="width:100%; max-width:450px; border-radius:1rem; box-shadow:0 20px 35px rgba(0,0,0,0.25); border:3px solid rgba(255,255,255,0.25);" />
-  </div>
+  </div> -->
 
----
 
 ## 🌩️ My Dev Arsenal
 

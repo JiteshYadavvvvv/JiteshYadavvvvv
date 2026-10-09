@@ -120,14 +120,23 @@ const jittu = {
        src="https://commitpulse.vercel.app/api/streak?user=JiteshYadavvvvv&bg=0d1117&accent=#0339F8&v=1"/>
 </p>
 
-  <picture>
+ <!-- <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/github-contribution-grid-snake.svg">
     <img alt="Snake Animation"
          src="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/github-contribution-grid-snake.svg" />
-  </picture>
+  </picture> -->
+  
+  <picture>
+  <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/pacman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+         src="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/pacman/pacman-contribution-graph.svg">
+</picture>
   <br/>
 
 </div>
@@ -153,15 +162,8 @@ const jittu = {
        src="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/snake.svg">
 </picture> -->
 
-## 🟡 Pacman CG
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/pacman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-         src="https://raw.githubusercontent.com/JiteshYadavvvvv/JiteshYadavvvvv/output/pacman/pacman-contribution-graph.svg">
-</picture>
+
+
 
 ---
